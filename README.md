@@ -2,8 +2,6 @@
 - 👀 I’m interested in **software development, open-source projects, and learning new technologies**.
 - 🌱 I’m currently learning **Rust, C#, and cloud technologies**.
 - 💞️ I’m looking to collaborate on **open-source projects, especially those related to backend development and DevOps**.
-- 📫 How to reach me:
-- **LinkedIn**: https://www.linkedin.com/in/sanphet/
 - ⚡ Fun fact: **I love automating repetitive tasks and building tools to make life easier!**
 
 <!---
